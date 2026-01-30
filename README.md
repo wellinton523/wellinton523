@@ -1,9 +1,63 @@
+# Olá, eu sou o Wellinton!
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wellinton523&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=2e3948"" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app//api/top-langs/?username=wellinton523&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=2e3948" />
-</div
+### Programador e Dev web
 
+---
 
+### 🎙️ Linguagens
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,js,css,html" />
+  </a>
+</p>
 
+### 🛠️ Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,godot,git,github" />
+  </a>
+</p>
+
+---
+
+### 📺 Onde me encontrar
+
+<p align="left">
+  <a href="https://twitch.tv" target="_blank">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/youtube/FF0000" />
+  </a>
+  <a href="https://twitch.tv/erebonys" target="_blank">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/twitch/9146FF" />
+  </a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app" />
+  
+  <br><br>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=wellinton523&theme=tokyonight&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+</div>
+
+---
+
+### 📫 Quer entrar em contato?
+
+<p align="left">
+  <a href="mailto:wellint5x@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
