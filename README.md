@@ -22,19 +22,6 @@
 
 ---
 
-### 📺 Onde me encontrar
-
-<p align="left">
-  <a href="https://twitch.tv" target="_blank">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/youtube/FF0000" />
-  </a>
-  <a href="https://twitch.tv/erebonys" target="_blank">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/twitch/9146FF" />
-  </a>
-</p>
-
----
-
 ### 📊 Minhas Estatísticas
 
 <div align="center">
@@ -53,11 +40,5 @@
 <p align="left">
   <a href="mailto:wellint5x@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://discord.com">
-    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
